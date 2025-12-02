@@ -2,7 +2,7 @@
 
 I'm building a foundation across computer science, electrical and computer engineering, and embedded systems with the long-term goal of working in research and development. My interest is in understanding how software, hardware, and systems fit together so I can design and build reliable, end-to-end solutions.
 
-GitHub is where I keep the projects that support that path — academic work from my CS degree or learning endeavors, engineering experiments, and embedded development. I organize things clearly so visitors can explore and evaluate (or contribute) my work based on the projects themselves.
+GitHub is where I keep the projects that support that path — academic endeavors, engineering experiments, and embedded development. I organize things clearly so visitors can explore and evaluate my work based on the projects themselves.
 
 ---
 
